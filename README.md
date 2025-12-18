@@ -70,7 +70,7 @@ const arush = {
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=arushkivi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arushkivi&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=arushkivi&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushkivi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" height="170"/>
 
@@ -92,7 +92,7 @@ const arush = {
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arushkivi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15)
+<img src="https://github-profile-trophy.vercel.app/?username=arushkivi&theme=onestar&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
