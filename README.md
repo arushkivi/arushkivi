@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there, I'm Arush!
+# 👋 Hey there, I'm Satvik!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Cool+Stuff+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Open+Source+Enthusiast+%E2%9C%A8)](https://git.io/typing-svg)
 
